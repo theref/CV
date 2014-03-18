@@ -11,6 +11,5 @@ sagetex.sty
 *.toc
 *.urb
 *.bbl
-*.pdf
 *.pyc
 *.vrb
