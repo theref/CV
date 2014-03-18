@@ -1,0 +1,16 @@
+sagetex.sty
+*.aux
+*.blg
+*.fdb_latexmk
+*.log
+*.out
+*.sagetex.sage
+*synctex.gz
+*.nav
+*.snm
+*.toc
+*.urb
+*.bbl
+*.pdf
+*.pyc
+*.vrb
