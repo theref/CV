@@ -2,6 +2,7 @@
 
 \usepackage{parskip}
 \usepackage{url}
+\usepackage{multicol}
 \usepackage[cm]{fullpage}
 \usepackage{hyperref}
 \usepackage{titlesec}
@@ -13,17 +14,19 @@
 %---------------------------------
 %	NAME AND CONTACT INFORMATION
 %---------------------------------
-\par{\centering{\Huge \textsc{James Campbell}\bigskip\par}
 % \section{Personal Data}
 
-\begin{tabular}{rl}
+\begin{multicols}{2}
 
-\textsc{Place and Date of Birth:} & Chester, UK  | 21 January 1995 \\
-\textsc{Address:} & 3 Hillside Close, Helsby, Cheshire, UK \\
-\textsc{Phone:} & +44 7876 075714\\
-\textsc{email:} & \href{mailto:james.campbell@tanti.org.uk}{james.campbell@tanti.org.uk}
+\raggedright{\textsc{\Huge{James Campbell}}}\\
+\columnbreak
+\raggedleft{
+3 Hillside Close, Helsby\\
+Cheshire, UK \\
++44 7876 075714\\
+\href{mailto:james.campbell@tanti.org.uk}{james.campbell@tanti.org.uk}}
 
-\end{tabular}
+\end{multicols}
 %----------------------
 %   PERSONAL PROFILE
 %----------------------
