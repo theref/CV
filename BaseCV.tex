@@ -8,7 +8,9 @@
 \usepackage{titlesec}
 \usepackage{tabularx}
 
-\renewcommand*{\familydefault}{\sfdefault}
+\usepackage[scaled]{helvet}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[T1]{fontenc}
 
 
 \titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule] % Text formatting of sections
@@ -43,9 +45,8 @@ I am a mature Undergraduate seeking a year long industrial placement in Mathemat
 \section{Work Experience}
 \begin{tabularx}{\textwidth}{lX}
 
-\emph{Current} & Working with Vince \\
-\textsc{Summer 2014} & \emph{Building Game Theoretical Software in a Research Environment}\\
-& \footnotesize{Contributing to the open source mathematics package: Sage. Responsible for the implementation of a variety of Game Theoretic algorithms that will be included in a release of Sage in the near future. Areas of Game Theory that will be implemented include: Normal Form Games, Co-operative Games and Matching Games. This developed teamwork and communication skills by providing real experience of a research environment.}\\
+\textsc{Current} & Building Game Theoretical Software in a Research Environment \\
+\textsc{Summer 2014} & \footnotesize{Worked with lecturer Dr. Vince Knight to contribute to the open source mathematics package: Sage. Responsible for the implementation of a variety of Game Theoretic algorithms that will be included in a release of Sage in the near future. Areas of Game Theory that will be implemented include: Normal Form Games, Co-operative Games and Matching Games. This developed teamwork and communication skills by providing real experience of a research environment.}\\
 \\
 %------------------------------------------------
 \textsc{Sept 2013} & Group Skills Instructor at 1\textsuperscript{st} Helsby Scouts\\
@@ -62,7 +63,7 @@ I am a mature Undergraduate seeking a year long industrial placement in Mathemat
 \section{Education}
 \begin{tabularx}{\textwidth}{lX}
 
-Current & \textsc{BSc Mathematics, Statistics and Operational Research} \\
+\textsc{Current} & \textsc{BSc Mathematics, Statistics and Operational Research} \\
 &\normalsize \textsc{Cardiff University}, Department of Mathematics\\
 & Expected \textsc{May} 2017\\
 \\
@@ -107,10 +108,10 @@ A thourough working knowledge of Python and Git. Both have been used to develop 
 \begin{tabular}{lcc}
 
 \multicolumn{1}{c}{\textsc{Exam}} & \textsc{Credit}&\textsc{\%}\\ \hline
-Algebra I & 10 & 62\\
 Analysis I & 10 & 78\\
 Dynamical Systems and Chaos & 10 & 80\\
 Calculus & 10 & 71\\
+Algebra I & 10 & 62\\
 Probability Theory & 10 & 81\\
 \\
 Algebra II & 10 & ?\\
