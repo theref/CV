@@ -13,3 +13,4 @@ sagetex.sty
 *.bbl
 *.pyc
 *.vrb
+*.pdf.orig
