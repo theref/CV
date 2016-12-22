@@ -1,5 +1,5 @@
 I am a driven undergraduate student with a proven record for performing well in an independent research environment.
-I have undertaken two summer research internships with Dr Vince Knight at Cardiff University.
+I have undertaken two summer research internships with Dr Vince Knight at Cardiff University and I am currently completing my final year project under his supervision.
 In both of these I displayed the ability to learn and understand new complex topics quickly.
 I have also demonstrated advanced software development skills and have written pieces of open-source software to advance computational abilities in the areas of Game Theory and Alternating Sign Matrices.
 
@@ -8,4 +8,9 @@ I have thoroughly enjoyed the time I spent doing independent research, both duri
 I have also spent two years tutoring first year undergraduates in a beginner Python course. I found that I enjoyed the teaching more than I expected and I hope to be able to continue this as a Phd students and further on too.
 
 I believe I am a good Phd candidate because I have already demonstrated the ability to perform well in a research environment.
-I understand that self discipline and time management is incredibly important and have been developing these attributes for several years.
+I understand that self discipline and time management are incredibly important and have been developing these attributes for several years.
+I have also completed a year in industry at Admiral Insurance.
+Again this has helped me with time management; having to be in work at 8am every day is very different to attending lectures.
+
+Overall I am a hard working student with prior experience of a working in a research environment.
+I believe I would be a very successful Phd candidate with a strong future in academia.
