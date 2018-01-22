@@ -15,3 +15,4 @@ sagetex.sty
 *.vrb
 *.fls
 *.pdf.orig
+*.xdv
